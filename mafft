@@ -9,5 +9,6 @@ do
 	arguments=$arguments" "$1
 	shift
 done
+
 "$rootdir"/mafftdir/bin/mafft $arguments "$1"
 # $1 can have space in file name
