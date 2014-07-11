@@ -27,3 +27,5 @@ FastTree:
     Price MN, Dehal PS, Arkin AP. (2010) FastTree 2: Approximately
         Maximum-Likelihood Trees for Large Alignments. PLoS ONE 5(3): e9490.
         doi:10.1371/journal.pone.0009490.
+HMMER:
+   See citations on [HMMER website](http://hmmer.janelia.org/).
